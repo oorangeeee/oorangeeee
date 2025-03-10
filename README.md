@@ -15,7 +15,7 @@
     </a>
 
 </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=oorangeeee&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=ffcc6ba,e9f89d,6cf2da&theme=graywhite" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=oorangeeee&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=ffcc6ba,e9f89d,6cf2da&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oorangeeee&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=ff4491,fffc9d,ffe101,6cf2da,b1ebfe&theme=graywhite&hide=html" /> </div>
 
 <p align="center">
