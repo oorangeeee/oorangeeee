@@ -13,6 +13,11 @@
     <a href="mailto:Jin0714@outlook.com">
       <img src="https://img.shields.io/badge/email-Jin0714%40outlook.com-orange" alt="Send Email">
     </a>
+    <a href="https://blog.oorangeeee.com" target="_blank">
+      <img src="https://img.shields.io/badge/blog-blog.oorangeeee.com-blue?logo=blogger&logoColor=white&style=flat-square" 
+           alt="Visit Blog"
+           style="margin-top:10px;">
+    </a>
 
 </div>
 <!-- 已注释的统计卡片 
